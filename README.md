@@ -13,4 +13,9 @@ energy prediction file is code for training model and save model(.keras)file
 .xlsx is the dataset 
 
  .keras file is trained model file that we use for creating gui
+ 
+
+
+ 
 ![Screenshot 2024-03-02 173243](https://github.com/Arianbanayan/electrical_energy_prediction/assets/72501050/ab25681c-32be-4dbc-8501-923972f9aa0f)
+
